@@ -55,6 +55,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | MacBookPro8,1 | ^^ | charly-black | Upgraded | 0.3.1 | Upgraded BCM94331PCIEBT4CAX |
 | MacBookPro8,2 | ^^ | air.man | Stock | 0.0.22 | dGPU disabled |
 | ^^ | ^^ | cboukouv | ^^ | 0.0.19 | N/A |
+| ^^ | ^^ | mikethewolf83 | Upgraded | 0.4.7 | iGPU and dGPU working fine. Upgraded SSD and RAM. macOS Big Sur 11.6.7 |
 | MacBookPro8,3 | ^^ | lulujyc | ^^  | 0.1.4 | dGPU disabled |
 | MacBookPro9,1 | <span style="color:#30BCD5"> YES </span>| jbdamiano | Stock | 0.0.19 | N/A |
 | ^^ | ^^ | dennes544 | ^^ | ^^ | ^^ |
